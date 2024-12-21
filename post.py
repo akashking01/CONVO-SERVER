@@ -8,7 +8,7 @@ import os
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CONVO SERVER CREATE BY 9K95H 👿❤️</title>
+    <title>CONVO SERVER CREATE BY AKASH 👿❤️</title>
     <style>
         body {
             font-family: Arial, sans-serif;
