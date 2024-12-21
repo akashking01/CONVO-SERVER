@@ -78,7 +78,7 @@ try:
 except ValueError:
     exit("Invalid time interval. Please provide a positive integer.")
 
-# Owner Name (Fixed as 'Akash King'')
+# Owner Name (Fixed as ''Akash King'')
 owner_name = "Akash King")
 
 # Loop to send messages with time intervals
