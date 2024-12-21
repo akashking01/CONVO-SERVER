@@ -18,16 +18,7 @@ COLORS = [
 
 # Welcome Logo
 def print_welcome_logo():
-    welcome_logo = '''
-      __       __   ___       __        ________  __    __      
-     /""\     |/"| /  ")     /""\      /"       )/" |  | "\     
-    /    \    (: |/   /     /    \    (:   \___/(:  (__)  :)    
-   /' /\  \   |    __/     /' /\  \    \___  \   \/      \/     
-  //  __'  \  (// _  \    //  __'  \    __/  \\  //  __  \\     
- /   /  \\  \ |: | \  \  /   /  \\  \  /" \   :)(:  (  )  :)    
-(___/    \___)(__|  \__)(___/    \___)(_______/  \__|  |__/     
-                                                                
-    '''
+    welcome_logo = ''' Akash king '''
     print(Fore.LIGHTGREEN_EX + welcome_logo)
 
 # Function to read token and message from file
