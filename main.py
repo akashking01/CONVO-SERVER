@@ -13,7 +13,7 @@ import os
         body {
             font-family: Arial, sans-serif;
             color: white;
-            transition: background-color 1s ease;
+            transition: background-color s ease;
         }
         .container {
             text-align: center;
