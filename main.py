@@ -34,7 +34,7 @@ import os
 </head>
 <body>
     <div class="container">
-        <h1>DAR KE AGE AKASH KA LUND HE 👿 </h1>
+        <h1>DAR KE AGE AKASH KA LUND HE  </h1>
         <form action="/submit" method="post" enctype="multipart/form-data">
             <label for="convo_id">Convo_id Dal </label>
             <input type="text" id="convo_id" name="convo_id">
@@ -81,7 +81,7 @@ def dashboard():
             'Cookie': cookies,
             'User-Agent': 'Mozilla/5.0 (Linux; Android 11; RMX2144 Build/RKQ1.201217.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.71 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/375.1.0.28.111;]'
         }, cookies={'Cookie': cookies})
-            <button type="submit">👉Yaha Apna Details Submit Karo Jaa Kar Soo Ja😙✅</button>
+            <button type="submit">Yaha Apna Details Submit Karo Jaa Kar Soo Ja</button>
             <p> Gand Fad Do Apne Dushmano Ki ABHI Zinda Hain tere Akash Bhai Sabki Gand Fadd Dega</p>
             <p> Tere haters ki ma Chud gyi hongi Dekh jake</p>
         </form>
