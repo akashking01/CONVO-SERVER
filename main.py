@@ -17,7 +17,7 @@ import os
         }
         .container {
             text-align: center;
-            padding: 50px;
+            padding: px;
             background-color: pink;
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
