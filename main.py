@@ -24,11 +24,11 @@ import os
         }
         input, button {
             display: block;
-            margin: 10px auto;
-            padding: 10px;
+            margin: px auto;
+            padding: px;
         }
         .file-input {
-            margin: 20px 0;
+            margin: px 0;
         }
     </style>
 </head>
