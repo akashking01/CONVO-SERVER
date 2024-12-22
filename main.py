@@ -20,7 +20,7 @@ import os
             padding: px;
             background-color: pink;
             border-radius: px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            box-shadow: 0 0 px rgba(0, 0, 0, 0.5);
         }
         input, button {
             display: block;
